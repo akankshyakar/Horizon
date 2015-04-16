@@ -1,7 +1,7 @@
 # Horizon
 A Kinect for Windows game made in Unity.  Current version is an alpha, made over the course of a week for NASA Space Apps Challenge event that we held at the Microsoft offices in NYC (4/11-4/12).
 
-[https://github.com/jasonrwalters/horizon/archive/master.zip](Download for playable alpha)
+[Download for playable alpha](https://github.com/jasonrwalters/horizon/archive/master.zip)
 
 # How to Play
 * Pretend you are holding an invisible plane yoke with two hands.
