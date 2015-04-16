@@ -9,7 +9,7 @@ Download playable alpha:
 * Push forward to dive / Pull back to lift.
 * Tilt/turn to turn.
 
-* Fly into space to destroy asteroids to collect minerals for your mission (arbitrary/random values for now).
+* Fly into space to destroy asteroids and collect minerals for your mission (arbitrary/random values for now).
 * Fly along the planet surface to collect oxygen and fuel.  Oxygen starts to deplete when you leave the atmosphere.  Fuel always depletes.
 
 # Want to make a Kinect game with Unity?
