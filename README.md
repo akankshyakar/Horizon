@@ -9,13 +9,11 @@ A Kinect for Windows game made in Unity.  Current version is alpha, made over th
 * (1) Kinect v2 sensor.  Without - the game ends after 5 seconds...building proper control toggle in later versions.
 
 # How to Play
-* Pretend you are holding an invisible plane yoke with two hands.
+Pretend you are holding an invisible plane yoke with two hands.  Fly into space to destroy asteroids and collect minerals for your mission (arbitrary/random values for now).  Fly along the planet surface to collect oxygen and fuel.  Oxygen starts to deplete when you leave the atmosphere.  Fuel always depletes.
 
 * Push forward to dive / Pull back to lift.
 * Tilt/turn to turn.
 
-* Fly into space to destroy asteroids and collect minerals for your mission (arbitrary/random values for now).
-* Fly along the planet surface to collect oxygen and fuel.  Oxygen starts to deplete when you leave the atmosphere.  Fuel always depletes.
 
 # Want to make a Kinect game with Unity?
 * Getting started w/ Kinect for Unity:  [http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/](http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/)
