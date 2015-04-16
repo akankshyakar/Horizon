@@ -1,5 +1,5 @@
 # Horizon
-a Kinect for Windows game made in Unity.  Current version is an alpha, made over the course of a week for NASA Space Apps Challenge event that we held at the Microsoft offices in NYC (4/11-4/12).
+A Kinect for Windows game made in Unity.  Current version is an alpha, made over the course of a week for NASA Space Apps Challenge event that we held at the Microsoft offices in NYC (4/11-4/12).
 
 Download playable alpha:
 
