@@ -5,7 +5,7 @@ A Kinect for Windows game made in Unity.  Current version is an alpha, made over
 
 # Requirements
 * Windows 8.1+
-* (1) Kinect v2 sensor.  Without - the game ends after 5 seconds...
+* (1) Kinect v2 sensor.  Without - the game ends after 5 seconds...building proper control toggle in later versions.
 
 # How to Play
 * Pretend you are holding an invisible plane yoke with two hands.
