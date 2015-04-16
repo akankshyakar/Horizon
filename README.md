@@ -1,8 +1,8 @@
 # Horizon
 A Kinect for Windows game made in Unity.  Current version is alpha, made over the course of a week for NASA Space Apps Challenge event that we held at the Microsoft offices in NYC (4/11-4/12).  I'm currently working on making this a much larger experience, adding some narrative, mission objectives, and much more.  Enjoy.
 
-Playable Alpha: [https://github.com/jasonrwalters/horizon/archive/master.zip](https://github.com/jasonrwalters/horizon/archive/master.zip)
-Trailer: [https://youtu.be/n1ts8aofhgE](https://youtu.be/n1ts8aofhgE)
+* Playable Alpha: [https://github.com/jasonrwalters/horizon/archive/master.zip](https://github.com/jasonrwalters/horizon/archive/master.zip)
+* Trailer: [https://youtu.be/n1ts8aofhgE](https://youtu.be/n1ts8aofhgE)
 
 # Requirements
 * Windows 8.1+
