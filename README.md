@@ -6,8 +6,7 @@ Download playable alpha:
 # How to Play
 * Pretend you are holding an invisible plane yoke with two hands.
 
-* Push forward to dive.
-* Pull back to lift.
+* Push forward to dive / Pull back to lift.
 * Tilt/turn to turn.
 
 * Fly into space to destroy asteroids to collect minerals for your mission (arbitrary/random values for now).
