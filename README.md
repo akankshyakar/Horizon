@@ -11,7 +11,7 @@ A Kinect for Windows game made in Unity.  Current version is alpha.  Enjoy.
 
 # How to Play
 * Press `K` to toggle Kinect or Keyboard mode.
-* Press `3` to toggle Oculus VR/3D mode.
+* Press `3` to toggle Oculus VR/3D mode (Required for Direct Rift mode)
 * Press `2` to toggle 2D mode.
 
 Pretend you are holding an invisible plane yoke with two hands.  Fly into space to destroy asteroids and collect minerals for your mission (arbitrary/random values for now).  Fly along the planet surface to collect oxygen and fuel.  Oxygen starts to deplete when you leave the atmosphere.  Fuel always depletes.
@@ -22,7 +22,7 @@ Pretend you are holding an invisible plane yoke with two hands.  Fly into space 
 
 # Want to make a Kinect game with Unity?
 * Getting started w/ Kinect for Unity:  [http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/](http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/)
-* Kinect Unity Joint ID Map:  [http://glitchbeam.com/kinect-v2-unity-plugin-joint-map/](http://glitchbeam.com/kinect-v2-unity-plugin-joint-map/)
+* Kinect Joint ID Map:  [http://glitchbeam.com/kinect-v2-joint-map/](http://glitchbeam.com/kinect-v2-joint-map/)
 * Horizon was built off of this:  [http://glitchbeam.com/unity-3d-workshop-for-ygm/](http://glitchbeam.com/unity-3d-workshop-for-ygm/)
 
 # Questions?
