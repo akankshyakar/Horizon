@@ -1,14 +1,19 @@
 # Horizon
-A Kinect for Windows game made in Unity.  Current version is alpha, made over the course of a week for NASA Space Apps Challenge event that we held at the Microsoft offices in NYC (4/11-4/12).  I'm currently working on making this a much larger experience, adding some narrative, mission objectives, and much more.  Enjoy.
+A Kinect for Windows game made in Unity.  Current version is alpha.  Enjoy.
 
 * Playable Alpha: [https://github.com/jasonrwalters/horizon/archive/master.zip](https://github.com/jasonrwalters/horizon/archive/master.zip)
 * Trailer: [https://youtu.be/n1ts8aofhgE](https://youtu.be/n1ts8aofhgE)
 
 # Requirements
 * Windows 8.1+
-* (1) Kinect v2 sensor.  Without - the game ends after 5 seconds...building proper control toggle in later versions.
+* (1) Kinect v2 sensor  (ONLY if using Kinect mode)
+* (1) Oculus Rift DK2   (ONLY if using Oculus mode)
 
 # How to Play
+* Press `K` to toggle Kinect or Keyboard mode.
+* Press `3` to toggle Oculus VR/3D mode.
+* Press `2` to toggle 2D mode.
+
 Pretend you are holding an invisible plane yoke with two hands.  Fly into space to destroy asteroids and collect minerals for your mission (arbitrary/random values for now).  Fly along the planet surface to collect oxygen and fuel.  Oxygen starts to deplete when you leave the atmosphere.  Fuel always depletes.
 
 * Push forward to dive / Pull back to lift.
