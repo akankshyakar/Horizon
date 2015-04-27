@@ -23,23 +23,21 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 * Avoid everything else...
 
 # Kinect controls (optional):
-* Walk towards Kinect until screen says "Player detected".  (Careful if more than one person is in range!)
+* Walk towards Kinect until screen says "Player detected"
 * Use two hands to control - Pretend you're holding a steering wheel or flight yoke
 * Push hands forward to dive
 * Pull hands back to raise
 * Tilt/turn hands to turn/dodge
 
-# Want to make a Kinect game with Unity?
-* Intro to Kinect for Unity:  [http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/](http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/)
-* Kinect Joint ID Map:  [http://glitchbeam.com/kinect-v2-joint-map/](http://glitchbeam.com/kinect-v2-joint-map/)
-* Horizon basic source:  [http://glitchbeam.com/unity-3d-workshop-for-ygm/](http://glitchbeam.com/unity-3d-workshop-for-ygm/)
-
-# Horizon was made with:
+# How to make a Kinect game with Unity:
 * Unity 5.0: [http://unity3d.com](http://unity3d.com)
 * Visual Studio 2013: [http://visualstudio.com](http://visualstudio.com)
 * Windows 8.1
 * (1) Kinect v2 sensor
-* (1) Oculus Rift DK2
+
+* Intro to Kinect for Unity:  [http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/](http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/)
+* Kinect Joint ID Map:  [http://glitchbeam.com/kinect-v2-joint-map/](http://glitchbeam.com/kinect-v2-joint-map/)
+* Horizon basic source:  [http://glitchbeam.com/unity-3d-workshop-for-ygm/](http://glitchbeam.com/unity-3d-workshop-for-ygm/)
 
 # Questions?
 * Twitter: [@jasonrwalters](http://twitter.com/jasonrwalters)
