@@ -1,4 +1,4 @@
-# Horizon - a Kinect for Windows game.
+# Horizon - a Kinect for Windows game
 
 Horizon is a game about avoiding the obstacles of an alien planet while finding resources for your mission.  Current version is an early alpha.
 
