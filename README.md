@@ -29,9 +29,9 @@ A Kinect for Windows game made in Unity.  Current version is alpha.  Enjoy.
 * Tilt/turn hands to turn/dodge
 
 # Want to make a Kinect game with Unity?
-* Getting started w/ Kinect for Unity:  [http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/](http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/)
+* Intro to Kinect for Unity:  [http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/](http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/)
 * Kinect Joint ID Map:  [http://glitchbeam.com/kinect-v2-joint-map/](http://glitchbeam.com/kinect-v2-joint-map/)
-* Horizon was built off of this:  [http://glitchbeam.com/unity-3d-workshop-for-ygm/](http://glitchbeam.com/unity-3d-workshop-for-ygm/)
+* Horizon basic source:  [http://glitchbeam.com/unity-3d-workshop-for-ygm/](http://glitchbeam.com/unity-3d-workshop-for-ygm/)
 
 # Questions?
 * [hello@glitchbeam.com](mailto:hello@glitchbeam.com)
