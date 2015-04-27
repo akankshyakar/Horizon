@@ -37,6 +37,9 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 # Horizon was made with:
 * Unity 5.0: [http://unity3d.com](http://unity3d.com)
 * Visual Studio 2013: [http://visualstudio.com](http://visualstudio.com)
+* Windows 8.1
+* (1) Kinect v2 sensor
+* (1) Oculus Rift DK2
 
 # Questions?
 * Twitter: [@jasonrwalters](http://twitter.com/jasonrwalters)
