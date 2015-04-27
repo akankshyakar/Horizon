@@ -2,11 +2,7 @@
 
 Horizon is a game about avoiding the obstacles of an alien planet while finding resources for your mission.  Current version is an early alpha.
 
-Made with the following:
-* Unity 5.0: [http://unity3d.com](http://unity3d.com)
-* Visual Studio 2013: [http://visualstudio.com](http://visualstudio.com)
-
-* Playable Alpha: [https://github.com/jasonrwalters/horizon/archive/master.zip](https://github.com/jasonrwalters/horizon/archive/master.zip)
+* Download alpha: [https://github.com/jasonrwalters/horizon/archive/master.zip](https://github.com/jasonrwalters/horizon/archive/master.zip)
 * Trailer: [https://youtu.be/n1ts8aofhgE](https://youtu.be/n1ts8aofhgE)
 
 # Requirements
@@ -38,7 +34,10 @@ Made with the following:
 * Kinect Joint ID Map:  [http://glitchbeam.com/kinect-v2-joint-map/](http://glitchbeam.com/kinect-v2-joint-map/)
 * Horizon basic source:  [http://glitchbeam.com/unity-3d-workshop-for-ygm/](http://glitchbeam.com/unity-3d-workshop-for-ygm/)
 
+# Horizon was made with:
+* Unity 5.0: [http://unity3d.com](http://unity3d.com)
+* Visual Studio 2013: [http://visualstudio.com](http://visualstudio.com)
+
 # Questions?
-* [hello@glitchbeam.com](mailto:hello@glitchbeam.com)
-* [http://glitchbeam.com](http://glitchbeam.com)
-* [@jasonrwalters](http://twitter.com/jasonrwalters)
+* Twitter: [@jasonrwalters](http://twitter.com/jasonrwalters)
+* www: [http://glitchbeam.com](http://glitchbeam.com)
