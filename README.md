@@ -1,5 +1,10 @@
-# Horizon
-A Kinect for Windows game made in Unity.  Current version is alpha.  Enjoy.
+# Horizon - a Kinect for Windows game.
+
+Horizon is a game about avoiding the obstacles of an alien planet while finding resources for your mission.  Current version is an early alpha.
+
+Made with the following:
+* Unity 5.0: [http://unity3d.com](http://unity3d.com)
+* Visual Studio 2013: [http://visualstudio.com](http://visualstudio.com)
 
 * Playable Alpha: [https://github.com/jasonrwalters/horizon/archive/master.zip](https://github.com/jasonrwalters/horizon/archive/master.zip)
 * Trailer: [https://youtu.be/n1ts8aofhgE](https://youtu.be/n1ts8aofhgE)
