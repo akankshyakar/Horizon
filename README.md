@@ -6,8 +6,8 @@ A Kinect for Windows game made in Unity.  Current version is alpha.  Enjoy.
 
 # Requirements
 * Windows 8.1+
-* (1) Kinect v2 sensor  (ONLY if using Kinect mode)
-* (1) Oculus Rift DK2   (ONLY if using Oculus mode)
+* (1) Kinect v2 sensor  (optional - Kinect mode)
+* (1) Oculus Rift DK2   (optional - Oculus mode)
 
 # How to Play
 * Press `K` to toggle Kinect or Keyboard mode (Keyboard mode is default)
@@ -21,7 +21,7 @@ A Kinect for Windows game made in Unity.  Current version is alpha.  Enjoy.
 * Destroy asteroids for mineral points
 * Avoid everything else...
 
-# Kinect controls:
+# Kinect controls (optional):
 * Walk towards Kinect until screen says "Player detected".  (Careful if more than one person is in range!)
 * Use two hands to control - Pretend you're holding a steering wheel or flight yoke
 * Push hands forward to dive
