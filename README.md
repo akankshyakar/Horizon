@@ -11,10 +11,13 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 * (1) Oculus Rift DK2   (optional - Oculus mode)
 
 ## How to Play
+#### Keyboard controls
 * Press `K` to toggle Kinect or Keyboard mode (Keyboard mode is default)
 * Press `3` to toggle Oculus VR/3D mode (Required for Direct Rift mode)
 * Press `2` to toggle 2D mode. (2D mode is default)
 * Use WASD or Arrow keys to move (Keyboard mode only)
+
+#### General
 * Weapons auto-fire when in space (for now...)
 * Fuel, Oxygen, Points - Fly into to collect
 * Oxygen depletes when in space
@@ -22,7 +25,7 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 * Destroy asteroids for mineral points
 * Avoid everything else...
 
-## Kinect controls (optional):
+#### Kinect controls (optional):
 * Walk towards Kinect until screen says "Player detected"
 * Use two hands to control - Pretend you're holding a steering wheel or flight yoke
 * Push hands forward to dive
