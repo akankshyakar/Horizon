@@ -6,8 +6,7 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 ## Contents
 * [Description](#description)
 * [Contents](#contents)
-* [Downloads](#downloads)
-* [Requirements](#requirements)
+* [Downloads and requirements](#downloads-and-requirements)
 * [How to Play](#how-to-play)
     * [Keyboard](#keyboard)
     * [General](#general)
@@ -17,14 +16,12 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
     * [Tutorials & Source](#tutorials-&-source)
 * [Support](#support)
 
-## Downloads
-* Alpha: [https://github.com/jasonrwalters/horizon/archive/master.zip](https://github.com/jasonrwalters/horizon/archive/master.zip) - updated on 4/26/2015
-* Trailer: [https://youtu.be/n1ts8aofhgE](https://youtu.be/n1ts8aofhgE)
-
-## Requirements
+## Downloads and requirements
 * Windows 8.1+
 * (1) Kinect v2 sensor  (optional - Kinect mode)
 * (1) Oculus Rift DK2   (optional - Oculus mode)
+* Alpha: [https://github.com/jasonrwalters/horizon/archive/master.zip](https://github.com/jasonrwalters/horizon/archive/master.zip) - updated on 4/26/2015
+* Trailer: [https://youtu.be/n1ts8aofhgE](https://youtu.be/n1ts8aofhgE)
 
 ## How to Play
 #### Keyboard
