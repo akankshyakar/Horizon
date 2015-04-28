@@ -1,17 +1,21 @@
 # Horizon - a Kinect for Windows game
 
+## Description
+Horizon is a game about avoiding the obstacles of an alien planet while finding resources for your mission.  Current version is an early alpha.
+
 ## Contents
 * [Description](#description)
+* [Contents](#contents)
 * [Downloads](#downloads)
 * [Requirements](#requirements)
 * [How to Play](#how-to-play)
-   * [Keyboard](#how-to-play-keyboard)
-   * [General](#how-to-play-general)
-   * [Kinect](#how-to-play-kinect)
-* How to make a Kinect game with Unity:
-
-## Description
-Horizon is a game about avoiding the obstacles of an alien planet while finding resources for your mission.  Current version is an early alpha.
+    * [Keyboard](#how-to-play-keyboard)
+    * [General](#how-to-play-general)
+    * [Kinect](#how-to-play-kinect)
+* [How to make a Kinect game with Unity](#how-to-make-a-kinect-game-with-unity)
+    * [Requirements](#how-to-make-a-kinect-game-with-unity-requirements)
+    * [Tutorials & Source](#how-to-make-a-kinect-game-with-unity-tutorials-&-source)
+* [Support](#support)
 
 ## Downloads
 * Download alpha: [https://github.com/jasonrwalters/horizon/archive/master.zip](https://github.com/jasonrwalters/horizon/archive/master.zip)
@@ -37,14 +41,14 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 * Destroy asteroids for mineral points
 * Avoid everything else...
 
-#### Kinect controls:
+#### Kinect controls
 * Walk towards Kinect until screen says "Player detected"
 * Use two hands to control - Pretend you're holding a steering wheel or flight yoke
 * Push hands forward to dive
 * Pull hands back to raise
 * Tilt/turn hands to turn/dodge
 
-## How to make a Kinect game with Unity:
+## How to make a Kinect game with Unity
 #### Requirements
 * Unity 5.0: [http://unity3d.com](http://unity3d.com)
 * Visual Studio 2013: [http://visualstudio.com](http://visualstudio.com)
@@ -56,6 +60,6 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 * Kinect Joint ID Map: [http://glitchbeam.com/kinect-v2-joint-map/](http://glitchbeam.com/kinect-v2-joint-map/)
 * Horizon basic source: [http://glitchbeam.com/unity-3d-workshop-for-ygm/](http://glitchbeam.com/unity-3d-workshop-for-ygm/)
 
-# Questions?
-* Twitter: [@jasonrwalters](http://twitter.com/jasonrwalters)
+# Support
 * www: [http://glitchbeam.com](http://glitchbeam.com)
+* Twitter: [@jasonrwalters](http://twitter.com/jasonrwalters)
