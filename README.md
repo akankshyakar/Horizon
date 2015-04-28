@@ -1,7 +1,19 @@
 # Horizon - a Kinect for Windows game
 
+## Contents
+* [Description](#description)
+* [Downloads](#downloads)
+* [Requirements](#requirements)
+* [How to Play](#how-to-play)
+* [Keyboard](#how-to-play-keyboard)
+* [General](#how-to-play-general)
+* [Kinect](#how-to-play-kinect)
+* How to make a Kinect game with Unity:
+
+## Description
 Horizon is a game about avoiding the obstacles of an alien planet while finding resources for your mission.  Current version is an early alpha.
 
+## Downloads
 * Download alpha: [https://github.com/jasonrwalters/horizon/archive/master.zip](https://github.com/jasonrwalters/horizon/archive/master.zip)
 * Trailer: [https://youtu.be/n1ts8aofhgE](https://youtu.be/n1ts8aofhgE)
 
@@ -11,7 +23,7 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 * (1) Oculus Rift DK2   (optional - Oculus mode)
 
 ## How to Play
-#### Keyboard controls
+#### Keyboard
 * Press `K` to toggle Kinect or Keyboard mode (Keyboard mode is default)
 * Press `3` to toggle Oculus VR/3D mode (Required for Direct Rift mode)
 * Press `2` to toggle 2D mode. (2D mode is default)
@@ -25,7 +37,7 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 * Destroy asteroids for mineral points
 * Avoid everything else...
 
-#### Kinect controls (optional):
+#### Kinect controls:
 * Walk towards Kinect until screen says "Player detected"
 * Use two hands to control - Pretend you're holding a steering wheel or flight yoke
 * Push hands forward to dive
