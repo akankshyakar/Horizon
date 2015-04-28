@@ -14,6 +14,7 @@ Current version is an early alpha.
     * [Kinect](#kinect)
 * [How to make a Kinect game with Unity](#how-to-make-a-kinect-game-with-unity)
     * [Requirements](#requirements)
+    * [Kinect Downloads](#kinect-downloads)
     * [Tutorials and Source](#tutorials-and-source)
 * [Support](#support)
 
@@ -51,7 +52,11 @@ Current version is an early alpha.
 * Unity 5.0: [http://unity3d.com](http://unity3d.com)
 * Visual Studio 2013: [http://visualstudio.com](http://visualstudio.com)
 * Windows 8.1
-* (1) Kinect v2 sensor
+* (1) Kinect v2 sensor: [http://www.microsoft.com/en-us/kinectforwindows/purchase/default.aspx](http://www.microsoft.com/en-us/kinectforwindows/purchase/default.aspx)
+
+#### Kinect Downloads
+* Kinect SDK: [http://www.microsoft.com/en-us/download/details.aspx?id=44561](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
+* Kinect v2 Plugin For Unity: [http://go.microsoft.com/fwlink/?LinkID=513177](http://go.microsoft.com/fwlink/?LinkID=513177)
 
 #### Tutorials and Source
 * Intro to Kinect for Unity: [http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/](http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/)
