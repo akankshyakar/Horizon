@@ -35,9 +35,9 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 * Windows 8.1
 * (1) Kinect v2 sensor
 
-* Intro to Kinect for Unity:  [http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/](http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/)
-* Kinect Joint ID Map:  [http://glitchbeam.com/kinect-v2-joint-map/](http://glitchbeam.com/kinect-v2-joint-map/)
-* Horizon basic source:  [http://glitchbeam.com/unity-3d-workshop-for-ygm/](http://glitchbeam.com/unity-3d-workshop-for-ygm/)
+* Tutorial: [Intro to Kinect for Unity](http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/)
+* Tutorial: [Kinect Joint ID Map](http://glitchbeam.com/kinect-v2-joint-map/)
+* Tutorial: [Horizon basic source](http://glitchbeam.com/unity-3d-workshop-for-ygm/)
 
 # Questions?
 * Twitter: [@jasonrwalters](http://twitter.com/jasonrwalters)
