@@ -6,14 +6,14 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 ## Contents
 * [Description](#description)
 * [Contents](#contents)
-* [Downloads and requirements](#downloads-and-requirements)
+* [Downloads and Requirements](#downloads-and-requirements)
 * [How to Play](#how-to-play)
     * [Keyboard](#keyboard)
     * [General](#general)
     * [Kinect](#kinect)
 * [How to make a Kinect game with Unity](#how-to-make-a-kinect-game-with-unity)
     * [Requirements](#requirements)
-    * [Tutorials & Source](#tutorials-&-source)
+    * [Tutorials and Source](#tutorials-and-source)
 * [Support](#support)
 
 ## Downloads and requirements
