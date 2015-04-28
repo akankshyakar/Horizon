@@ -18,7 +18,7 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 * [Support](#support)
 
 ## Downloads
-* Alpha: [https://github.com/jasonrwalters/horizon/archive/master.zip](https://github.com/jasonrwalters/horizon/archive/master.zip) - Update on 4/26/2015
+* Alpha: [https://github.com/jasonrwalters/horizon/archive/master.zip](https://github.com/jasonrwalters/horizon/archive/master.zip) - updated on 4/26/2015
 * Trailer: [https://youtu.be/n1ts8aofhgE](https://youtu.be/n1ts8aofhgE)
 
 ## Requirements
