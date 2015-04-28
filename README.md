@@ -41,7 +41,7 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 * Destroy asteroids for mineral points
 * Avoid everything else...
 
-#### Kinect controls
+#### Kinect
 * Walk towards Kinect until screen says "Player detected"
 * Use two hands to control - Pretend you're holding a steering wheel or flight yoke
 * Push hands forward to dive
