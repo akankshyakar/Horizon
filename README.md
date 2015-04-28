@@ -35,6 +35,7 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 * Visual Studio 2013: [http://visualstudio.com](http://visualstudio.com)
 * Windows 8.1
 * (1) Kinect v2 sensor
+
 #### Tutorials & Source
 * [Intro to Kinect for Unity](http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/)
 * [Kinect Joint ID Map](http://glitchbeam.com/kinect-v2-joint-map/)
