@@ -20,7 +20,7 @@ Horizon is a game about avoiding the obstacles of an alien planet while finding 
 * Windows 8.1+
 * (1) Kinect v2 sensor  (optional - Kinect mode)
 * (1) Oculus Rift DK2   (optional - Oculus mode)
-* Alpha: [https://github.com/jasonrwalters/horizon/archive/master.zip](https://github.com/jasonrwalters/horizon/archive/master.zip) - updated on 4/26/2015
+* Playable alpha: [https://github.com/jasonrwalters/horizon/archive/master.zip](https://github.com/jasonrwalters/horizon/archive/master.zip) - updated on 4/26/2015
 * Trailer: [https://youtu.be/n1ts8aofhgE](https://youtu.be/n1ts8aofhgE)
 
 ## How to Play
