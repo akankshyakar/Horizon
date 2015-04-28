@@ -5,9 +5,9 @@
 * [Downloads](#downloads)
 * [Requirements](#requirements)
 * [How to Play](#how-to-play)
-  * [Keyboard](#how-to-play-keyboard)
-  * [General](#how-to-play-general)
-  * [Kinect](#how-to-play-kinect)
+   * [Keyboard](#how-to-play-keyboard)
+   * [General](#how-to-play-general)
+   * [Kinect](#how-to-play-kinect)
 * How to make a Kinect game with Unity:
 
 ## Description
