@@ -61,7 +61,7 @@ Current version is an early alpha.
 #### Tutorials and Source
 * Intro to Kinect for Unity: [http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/](http://glitchbeam.com/getting-started-kinect-v2-and-unity-on-windows/)
 * Kinect Joint ID Map: [http://glitchbeam.com/kinect-v2-joint-map/](http://glitchbeam.com/kinect-v2-joint-map/)
-* Horizon basic source: [http://glitchbeam.com/unity-3d-workshop-for-ygm/](http://glitchbeam.com/unity-3d-workshop-for-ygm/)
+* Kinect_Unity examples: [http://github.com/jasonrwalters/Kinect_Unity](http://github.com/jasonrwalters/Kinect_Unity)
 
 # Support
 * www: [http://glitchbeam.com](http://glitchbeam.com)
